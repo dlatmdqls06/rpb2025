@@ -1,1 +1,6 @@
-{\rtf1}
+def main():
+    
+def add():
+
+def devide():
+    
